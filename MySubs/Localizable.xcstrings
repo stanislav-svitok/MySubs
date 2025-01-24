@@ -1,0 +1,83 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld videos" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld video"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld videos"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld views" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld view"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld views"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Account" : {
+
+    },
+    "Application needs authorization to fetch your Youtube subscriptions. Please sign in using Google account." : {
+
+    },
+    "Failed to load detail" : {
+
+    },
+    "Failed to load subscriptions" : {
+
+    },
+    "Logout" : {
+
+    },
+    "My Subs" : {
+
+    },
+    "No description" : {
+
+    },
+    "Retry" : {
+
+    },
+    "Sign in required" : {
+
+    },
+    "Sign in with Google" : {
+
+    },
+    "Subscriptions" : {
+
+    }
+  },
+  "version" : "1.0"
+}
